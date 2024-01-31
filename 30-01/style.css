@@ -1,0 +1,46 @@
+body {
+  background-image: url("eba.jpg");
+  background-size: cover;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 500;
+  color: rgb(255, 255, 255);
+  height: 100vh;
+}
+
+button {
+  border: 2px solid rgb(10, 9, 9);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: rgb(17, 12, 12);
+  font-weight: 800;
+  width: 200px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
+
+.container{
+  background-color: rgb(rgb(206,180,141));
+  width: 40%;
+  margin: auto;
+}
+
+h1{
+  color: rgb(8, 8, 1);
+}
+
+#save-btn:hover {
+  background-color: rgb(8, 165, 94);
+}
+
+#increment-btn:hover {
+  background-color: brown;
+}
+
+#increment-btn {
+  background: rgb(86, 148, 5);
+}
+
+#save-btn {
+  background: rgb(87, 110, 2);
+}
